@@ -8,7 +8,7 @@
 
 ### 创伤与骨关节
 
-- [肩关节脱位](./shoulder-dislocation/)  
+- [肩关节脱位](https://github.com/shengbohan/clinical-notes/tree/Shoulder-dislocation)  
   急诊评估、复位手法、镇痛镇静、复位后处理、复发风险分层。
 
 ## 许可证
