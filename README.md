@@ -13,7 +13,7 @@
 
 ### 体表肿物与小手术
 
-- [脂肪瘤切除术](./lipoma-excision/)  
+- [脂肪瘤切除术](https://github.com/shengbohan/clinical-notes/blob/lipoma-excision/README.md)  
   术前判断、肉瘤红旗、局麻切除步骤、术后处理、并发症和病历模板。
   
 ## 许可证
