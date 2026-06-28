@@ -15,6 +15,9 @@
 
 - [脂肪瘤切除术](https://github.com/shengbohan/clinical-notes/blob/lipoma-excision/README.md)  
   术前判断、肉瘤红旗、局麻切除步骤、术后处理、并发症和病历模板。
+
+- [皮脂腺囊肿切除术](./epidermoid-cyst-excision/)  
+  表皮样囊肿识别、炎症期处理、局麻切除步骤、包膜完整清除、术后处理和病历模板。
   
 ## 许可证
 
